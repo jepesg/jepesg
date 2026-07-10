@@ -50,8 +50,8 @@ Sistema completo de gestão de pátios e logística desenvolvido de ponta a pont
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jepesg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepesg&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens" height="180px"/>
 </p>
 
 <p align="left">
