@@ -1,13 +1,24 @@
-# Olá, eu sou o Guilherme Jepes! 👋 
+<p align="center">
+  <!-- Banner animado de tecnologia com efeito wave nas cores do Python -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:F7DF1E&height=180&section=header&text=Guilherme%20Jepes&subtitle=Python%20Developer%20&fontSize=40&fontAlignY=40&subtitleSize=18&subtitleAlignY=65&theme=tokyonight" width="100%"/>
+</p>
+
+# Olá, eu sou o Guilherme Jepes!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Transição%20para%20Dev-blueviolet?style=for-the-badge&logo=rocket" alt="Status"/>
-  <img src="https://img.shields.io/badge/Localização-Itupeva/%20SP-blue?style=for-the-badge&logo=googlemaps" alt="Localização"/>
+</p>
+
+<p align="right">
+  <!-- GIF Animado Temático de Python e Código -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTPAvS86/giphy.gif" width="180px" align="right"/>
 </p>
 
 Imagine um profissional que passou mais de 5 anos desvendando problemas críticos de infraestrutura, redes e servidores, e que agora aplica toda essa bagagem analítica para construir códigos robustos, eficientes e escaláveis. Esse sou eu.
 
 Sou graduado em **Gestão da TI** e estou consolidando minha transição definitiva para o **Desenvolvimento de Software**. Minha meta é unir o melhor dos dois mundos: a visão holística de sustentação com a criação de aplicações modernas no ecossistema Python.
+
+<br>
 
 ---
 
@@ -50,12 +61,7 @@ Sistema completo de gestão de pátios e logística desenvolvido de ponta a pont
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jepesg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jepesg&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens" height="180px"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight" alt="Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jepesg&theme=tokyonight" alt="Streak" width="100%"/>
 </p>
 
 ---
