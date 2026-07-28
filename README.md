@@ -6,7 +6,8 @@
 # Olá, eu sou o Guilherme Jepes!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Transição%20para%20Dev-blueviolet?style=for-the-badge&logo=rocket" alt="Status"/>
+  <img src="https://img.shields.io/badge/Status-Transi%C3%A7%C3%A3o%20para%20Analista%20de%20Dados-blueviolet%3F?style=for-the-badge&logo=rocket" alt="Status"/> 
+
 </p>
 
 <p align="right">
